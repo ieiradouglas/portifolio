@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin:0;
+  padding:0;
+  box-sizing: none;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: #fff;
+  background-image: url('./assets/pexels.png');
+  background-size: auto;
+  background-repeat: no-repeat;
+}
